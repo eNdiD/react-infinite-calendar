@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-calendar",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Infinite scrolling date-picker built with React, with localization, themes, keyboard support, and more.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -44,11 +44,11 @@
     "eslint-plugin-import": "^2.0.1",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.4.1",
-    "node-sass": "^4.14.1",
     "nwb": "^0.15.6",
-    "nwb-sass": "^0.10.2",
+    "nwb-sass": "eNdiD/nwb-sass#v0.10.3",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "sass": "^1.52.1"
   },
   "author": {
     "name": "Clauderic Demers",
